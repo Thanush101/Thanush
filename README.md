@@ -11,9 +11,12 @@
 
 - 🤝 I’m looking for help with **Microcontrollers**
 
-- 👨‍💻 All of my projects are available at [https://valuable-pine-subway.glitch.me/](https://valuable-pine-subway.glitch.me/)
-
 - ⚡ Fun fact **i meditate**
+
+
+## 🚀 Open Source Contributions
+
+- **[Pocket TTS — PR #381](https://github.com/kyutai-labs/pocket-tts/pull/381)** — Contributed to [Kyutai's Pocket TTS](https://github.com/kyutai-labs/pocket-tts), an open-source text-to-speech project. **Merged** ✅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
